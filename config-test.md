@@ -1,0 +1,1 @@
+# To test if the user configuration is correct
